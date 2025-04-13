@@ -13,13 +13,12 @@ A sleek and modern web-based to-do list application with a luxury aesthetic! Org
 
 ## 🖼️ Screenshots
 
-![Task Added]
+
 ![Screenshot_2025-04-13_205238 1](https://github.com/user-attachments/assets/33615ff3-4017-4613-a578-9394cdf7e6e1)
 
-![Task Marked Complete]
+![22](https://github.com/user-attachments/assets/a4651eab-f01b-4f32-8dae-3624000d397e)
 
 
-![Task Reset]
 ![Screenshot_2025-04-13_205203 1](https://github.com/user-attachments/assets/358c3b4e-6e37-4dd9-b4ec-7199cafbdc62)
 
 
