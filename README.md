@@ -33,3 +33,14 @@ A sleek and modern web-based to-do list application with a luxury aesthetic! Org
 1. Clone the repository:
    ```bash
    git clone https://github.com/Joshethapolireddy/To-Do-List.git
+
+ Acknowledgements
+I would like to thank:
+
+👨‍💻 My friends for brainstorming ideas, testing features, and encouraging me throughout the development process.
+
+🌐 W3Schools – for providing beginner-friendly tutorials and helping me get started with HTML, CSS, and JavaScript.
+
+📘 MDN Web Docs – for clear and detailed references on web technologies.
+
+✨ Online forums like Stack Overflow – for quick fixes and helpful advice.
